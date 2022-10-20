@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(255, 68, 0);
+}
+#head1 {
+
+    color: red;
+    font-size: 810%;
+    font-family: monospace;
+    background-color: yellow;
+    
+}
+#para1 {
+    text-align: center;
+    font-size: 200%;
+    color: yellow;
+    border: 6px solid yellow;
+    padding: 30px;
+    background-color: green;
+    margin-top:  6%;
+    margin-bottom: 1%;
+}
+
+#head2{
+    margin-top: 5%; 
+    
+}
+
